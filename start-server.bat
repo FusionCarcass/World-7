@@ -1,1 +1,1 @@
-java.exe -server -Xms2048M -Xmx4096M -XX:+UseG1GC -XX:+CMSIncrementalPacing -XX:+CMSClassUnloadingEnabled -XX:ParallelGCThreads=4 -XX:MinHeapFreeRatio=5 -XX:MaxHeapFreeRatio=10 -Dfml.readTimeout=60 -jar server.jar
+java.exe -server -Xms2048M -Xmx8192M -XX:+UseG1GC -XX:+CMSIncrementalPacing -XX:+CMSClassUnloadingEnabled -XX:ParallelGCThreads=4 -XX:MinHeapFreeRatio=5 -XX:MaxHeapFreeRatio=10 -Dfml.readTimeout=60 -jar server.jar
