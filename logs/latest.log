@@ -1,18 +1,18 @@
-[07:48:42] [User Authenticator #63/INFO]: UUID of player FusionCarcass is f0b29e89-f0dc-45e8-954d-3fbe6b97b6ed
-[07:48:42] [Server thread/INFO]: FusionCarcass[/127.0.0.1:33975] logged in with entity id 4424728 at (78.69999998807907, 78.0, 25.244430507312437)
-[07:48:42] [Server thread/INFO]: FusionCarcass joined the game
-[07:49:02] [Server thread/INFO]: Set FusionCarcass's game mode to Creative Mode
-[07:54:39] [Server thread/INFO]: FusionCarcass lost connection: Disconnected
-[07:54:39] [Server thread/INFO]: FusionCarcass left the game
-[09:03:18] [User Authenticator #64/INFO]: UUID of player FusionCarcass is f0b29e89-f0dc-45e8-954d-3fbe6b97b6ed
-[09:03:18] [Server thread/INFO]: FusionCarcass[/127.0.0.1:27016] logged in with entity id 4431803 at (77.45685345055702, 78.0, 30.12099535705882)
-[09:03:18] [Server thread/INFO]: FusionCarcass joined the game
-[09:03:30] [Server thread/INFO]: Set FusionCarcass's game mode to Creative Mode
-[09:59:20] [Server thread/INFO]: FusionCarcass lost connection: Disconnected
-[09:59:20] [Server thread/INFO]: FusionCarcass left the game
-[10:27:25] [Server Shutdown Thread/INFO]: Stopping server
-[10:27:25] [Server Shutdown Thread/INFO]: Saving players
-[10:27:25] [Server Shutdown Thread/INFO]: Saving worlds
-[10:27:25] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[10:27:25] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[10:27:25] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:40:09] [User Authenticator #8/INFO]: UUID of player Brantalopes is d97da7d3-ac26-4b40-b8dd-7040818fd970
+[00:40:09] [Server thread/INFO]: Brantalopes[/68.32.235.76:52241] logged in with entity id 576412 at (-192.99904287701267, 63.0, -1268.7317658355037)
+[00:40:09] [Server thread/INFO]: Brantalopes joined the game
+[01:04:24] [Server thread/INFO]: Brantalopes has made the advancement [Local Brewery]
+[01:09:38] [Server thread/INFO]: Brantalopes lost connection: Disconnected
+[01:09:38] [Server thread/INFO]: Brantalopes left the game
+[06:52:12] [User Authenticator #9/INFO]: UUID of player FusionCarcass is f0b29e89-f0dc-45e8-954d-3fbe6b97b6ed
+[06:52:12] [Server thread/INFO]: FusionCarcass[/127.0.0.1:47880] logged in with entity id 621225 at (73.66574592603763, 70.0, 63.7649240079017)
+[06:52:12] [Server thread/INFO]: FusionCarcass joined the game
+[06:52:28] [Server thread/INFO]: Set FusionCarcass's game mode to Creative Mode
+[07:12:54] [Server thread/INFO]: FusionCarcass lost connection: Disconnected
+[07:12:54] [Server thread/INFO]: FusionCarcass left the game
+[07:13:05] [Server Shutdown Thread/INFO]: Stopping server
+[07:13:05] [Server Shutdown Thread/INFO]: Saving players
+[07:13:05] [Server Shutdown Thread/INFO]: Saving worlds
+[07:13:05] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[07:13:05] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[07:13:05] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
