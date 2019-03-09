@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2019-03-03 13:35:19 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2019-02-16 11:03:38 -0600"
@@ -344,6 +350,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2019-03-03 13:30:44 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2019-02-16 10:55:38 -0600"
@@ -380,6 +392,7 @@
       "cooked_mutton": "2019-02-16 11:38:31 -0600",
       "cooked_beef": "2019-02-17 14:42:47 -0600",
       "baked_potato": "2019-02-15 19:51:17 -0600",
+      "potato": "2019-03-06 21:23:48 -0600",
       "bread": "2019-02-16 11:06:30 -0600",
       "rotten_flesh": "2019-02-23 14:09:23 -0600",
       "salmon": "2019-02-15 19:54:49 -0600",
@@ -475,13 +488,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-02-15 19:50:47 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-02-15 19:50:47 -0600"
     },
@@ -588,8 +601,8 @@
       "minecraft:cow": "2019-02-16 10:54:30 -0600",
       "minecraft:chicken": "2019-02-17 21:34:05 -0600",
       "minecraft:pig": "2019-02-16 12:36:52 -0600",
-      "minecraft:sheep": "2019-02-16 12:38:15 -0600",
-      "minecraft:rabbit": "2019-02-16 11:57:00 -0600"
+      "minecraft:rabbit": "2019-02-16 11:57:00 -0600",
+      "minecraft:sheep": "2019-02-16 12:38:15 -0600"
     },
     "done": false
   },
@@ -860,6 +873,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2019-02-15 19:33:33 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2019-03-03 13:30:44 -0600"
     },
     "done": true
   },
@@ -1843,6 +1862,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2019-02-15 19:34:26 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2019-03-03 13:35:19 -0600"
     },
     "done": true
   },
