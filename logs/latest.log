@@ -1,6 +1,6 @@
-[04:49:00] [Server Shutdown Thread/INFO]: Stopping server
-[04:49:00] [Server Shutdown Thread/INFO]: Saving players
-[04:49:00] [Server Shutdown Thread/INFO]: Saving worlds
-[04:49:00] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[04:49:00] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[04:49:00] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[05:06:42] [Server Shutdown Thread/INFO]: Stopping server
+[05:06:42] [Server Shutdown Thread/INFO]: Saving players
+[05:06:42] [Server Shutdown Thread/INFO]: Saving worlds
+[05:06:42] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[05:06:42] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[05:06:42] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
